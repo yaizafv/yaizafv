@@ -1,5 +1,5 @@
 <h1 align="center">Yaiza Vega</h1>
-<h3 align="center">Software Engineer Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 - 🔭 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/yaizafv?tab=repositories)
