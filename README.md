@@ -1,18 +1,19 @@
-<!-- TÍTULO CENTRADO -->
 <h3 align="center">Software Engineer Student</h3>
 
-<!-- TROPHY -->
-### 🏆 Trophies
-!trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaizafv" alt="yaizafv" /></a> </p>
 
-<!-- ABOUT / STUDIES -->
-- 🔭 Currently studying at [EII](https://ingenieriainformatica.uniovi.es/inicio)
+- 🔭 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
 
-<!-- SOCIAL -->
-### Connect with me
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: @yaizafvPython, C++) -->
-### Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="r.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="ons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" heightieres este estilo: descomenta la línea siguiente y comenta la de arriba -->
-<!-- ![Languages](https://skillicons.dev/icons?i=java,es
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaizafv&layout=compact&username=yaizafv&show_icons=true&theme=oned
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/yaizafv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaizafv_" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaizafv&show_icons=true&locale=en&layout=compact" alt="yaizafv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaizafv&show_icons=true&locale=en" alt="yaizafv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaizafv&" alt="yaizafv" /></p>
