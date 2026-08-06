@@ -29,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs" /><br><br>
 
 **Databases**<br>
-<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="oracle" width="40" height="40" />
 
 
