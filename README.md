@@ -2,6 +2,8 @@
 
 <h3 align="center">Software Engineering Student</h3>
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/repos)
+
 - 💻 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
 - 👩‍💻  [Repos](https://github.com/yaizafv?tab=repositories)
 
