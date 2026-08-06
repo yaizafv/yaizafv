@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Yaiza+Vega)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Yaiza+Vega" alt="Typing SVG" /></a>
+
 <h3 align="center">Software Engineering Student</h3>
 
 - 💻 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
