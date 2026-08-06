@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6540E1&center=true&width=500&lines=Yaiza+Vega)](https://git.io/typing-svg)
+# Yaiza Vega
 
-<h3 align="center">Software Engineering Student</h3>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6540E1&center=true&vCenter=true&width=560&lines=Software+Engineer+Student" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/repos)
 
