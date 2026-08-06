@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/github-repos-blue?style=for-the-badge&logo=github)](https://github.com/yaizafv?tab=repositories)
 
 
-# Languages and others
+# Technologies
 <div align="center">
 
 **Programming Languages**<br>
