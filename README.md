@@ -19,7 +19,7 @@
 
 
 **Tools & Others**<br>
-<img src="https://skillicons.dev/icons?i=linux,git,arduino,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=linux,git,arduino,powershell" />
 
 </div>
 
