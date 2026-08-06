@@ -7,6 +7,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaizafv)
 [![GitHub](https://img.shields.io/badge/github-repos-blue?style=for-the-badge&logo=github)](https://github.com/yaizafv?tab=repositories)
 
+# My Github account
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaizafv&label=Profile%20views&color=c40000&style=flat" alt="yaizafv" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaizafv/yaizafv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaizafv/yaizafv/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yaizafv/yaizafv/output/github-snake.svg" />
+  </picture>
+</div>
 
 - 💻 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
 
