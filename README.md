@@ -1,4 +1,4 @@
-<h1 align="center">Yaiza Vega</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yaiza;Vega)](https://git.io/typing-svg)</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 - 💻 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
