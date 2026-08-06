@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Yaiza Vega
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6540E1&center=true&vCenter=true&width=560&lines=Software+Engineer+Student" alt="Typing SVG" />
