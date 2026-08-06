@@ -5,7 +5,7 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6540E1&center=true&vCenter=true&width=560&lines=Software+Engineer+Student" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaizafv)
-[![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/repos)
+[![GitHub](https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github)](https://github.com/repos)
 
 
 - 💻 Currently studing at [EII](https://ingenieriainformatica.uniovi.es/inicio)
