@@ -23,11 +23,18 @@
 
 
 # Languages and others
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,mysql,linux" />
-  </a>
-</p>
+<div align="center">
+
+**Programming Languages**<br>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs" /><br><br>
+
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+
+**Tools & Others**<br>
+<img src="https://skillicons.dev/icons?i=linux,git,arduino,bash,powershell" />
+
+</div>
 
 
 
