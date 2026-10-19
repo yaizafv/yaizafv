@@ -16,6 +16,8 @@
 
 **Databases**<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="oracle" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=sqlite" /><br><br>
+
 
 
 **Tools & Others**<br>
